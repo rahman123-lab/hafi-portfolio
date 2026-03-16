@@ -52,7 +52,7 @@ const Hero = () => {
           <a href="#contact" className="inline-flex items-center gap-2 bg-primary text-primary-foreground px-6 py-3 rounded-lg font-medium text-sm hover:brightness-110 transition-all duration-100 glow">
             <Mail size={16} /> Get in Touch
           </a>
-          <a href="#" className="inline-flex items-center gap-2 glass-hover px-6 py-3 rounded-lg font-medium text-sm text-foreground">
+          <a href="/hafizurcv.pdf" target="_blank" rel="noopener noreferrer" className="inline-flex items-center gap-2 glass-hover px-6 py-3 rounded-lg font-medium text-sm text-foreground">
             <FileText size={16} /> Resume
           </a>
         </motion.div>
